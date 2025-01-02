@@ -1,4 +1,4 @@
-# Shopify App for 3D Models, Configuration, and Actions
+# Shopify App for 3D Models, Configuration, and Action block
 
 This repository contains a Shopify app designed to extend product functionality through 3D modeling, configuration panels, and action panels. It is built to support customized workflows for merchants, enhancing the Shopify product page with dynamic 3D visuals and advanced configuration capabilities.
 
