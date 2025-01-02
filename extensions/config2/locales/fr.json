@@ -1,0 +1,4 @@
+{
+  "name": "config2",
+  "welcome": "Bienvenue dans l'extension {{TARGET}}!"
+}
