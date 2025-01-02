@@ -14,3 +14,16 @@ Acts as sample configuration panel for testing purpose.
 
 `.shopify.app.toml:`
 Configuration file for the Shopify app, defining app metadata and extensions.
+
+For installation follow the steps:
+`1. clone the repo`
+
+`2. npm install`
+
+`3. setup env`
+
+`4. login to shopify and setup`
+
+`5. shopify app dev`
+
+Now, the project is good to go for work.
